@@ -64,6 +64,7 @@ E-Commerce-Recommendation-Engine/
 │ ├── users.json
 ├── requirements.txt
 ├── README.md
+Demo link- https://afku59pbrof9ehhwzorrxd.streamlit.app/
 📊 Features
 Product listing
 User behavior simulation
