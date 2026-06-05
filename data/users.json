@@ -1,0 +1,8 @@
+[
+  {
+    "uid": 101,
+    "purchased": [1, 2],
+    "searched": ["Watch"],
+    "cart": [2]
+  }
+]

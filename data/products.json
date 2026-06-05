@@ -1,0 +1,9 @@
+[
+  {"pid": 1, "name": "Shoes", "category": "Fashion", "rating": 4},
+  {"pid": 2, "name": "Watch", "category": "Fashion", "rating": 5},
+  {"pid": 3, "name": "Laptop", "category": "Electronics", "rating": 5},
+  {"pid": 4, "name": "Phone", "category": "Electronics", "rating": 4},
+  {"pid": 5, "name": "Bag", "category": "Fashion", "rating": 3},
+  {"pid": 6, "name": "Headphones", "category": "Electronics", "rating": 4},
+  {"pid": 7, "name": "T-Shirt", "category": "Fashion", "rating": 4}
+]
